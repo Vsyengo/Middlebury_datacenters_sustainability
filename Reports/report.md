@@ -1,7 +1,7 @@
 # Data Center Sustainability Report 
 ## 1. Introduction
 
-Middlebury College has long been a leader in sustainability, yet its growing data centers are an often-overlooked part of its energy and emissions profile. This analysis explores a scenario-based model: what if Middlebury’s data centers were powered by a 750 kW solar array dedicated solely to their energy needs? Using a year of simulated data, I assessed how this system could influence grid reliance, emissions, and operating costs. The goal is to identify areas for optimization and demonstrate potential environmental and cost-saving impacts.
+Middlebury College has long been a leader in sustainability, yet its growing data centers are an often an overlooked part of its energy and emissions profile. This analysis explores a scenario-based model: what if Middlebury’s data centers were powered by a 750 kW solar array dedicated solely to their energy needs? Using a year of simulated data, I assessed how this system could influence grid reliance, emissions, and operating costs. The goal is to identify areas for optimization and demonstrate potential environmental and cost-saving impacts.
 
 
 **Tools used**: `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
