@@ -175,7 +175,7 @@ Overall, this scenario demonstrates that targeted investments in dedicated renew
 
 **Recommendations**
 
-This analysis reaffirms the strength of Middlebury College’s renewable energy investments while also pointing toward clear opportunities to build on that foundation. By continuing to align operational practices with renewable availability, expanding on-site storage capacity, and addressing cooling efficiency, the College can further reduce its grid reliance, emissions, and operational costs. These steps would also reinforce Middlebury’s leadership as a carbon-neutral campus, showcasing how data centers—often overlooked in sustainability planning—can be central to achieving institutional climate goals.
+This analysis reaffirms the strength of Middlebury College’s renewable energy investments while also pointing toward clear opportunities to build on that foundation. By continuing to align operational practices with renewable availability, expanding on-site storage capacity, and addressing cooling efficiency, the College can further reduce its grid reliance, emissions, and operational costs. These steps would also reinforce Middlebury’s leadership as a carbon-neutral campus, showcasing how data centers can be central to achieving institutional climate goals.
 
 ---
 
